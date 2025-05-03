@@ -1,0 +1,92 @@
+[
+  {
+    "company": "HDFC Ergo",
+    "claim_settlement_ratio(avg._of_last_3_years)": "98%",
+    "network_hospitals": "13,000+",
+    "gross_written_premium_(2023-24)": "\u00e2\u0082\u00b95,942.58 Cr",
+    "track_record": "22 years",
+    "rating_out_of_10": "9.2"
+  },
+  {
+    "company": "Aditya Birla",
+    "claim_settlement_ratio(avg._of_last_3_years)": "95%",
+    "network_hospitals": "12,000+",
+    "gross_written_premium_(2023-24)": "\u00e2\u0082\u00b93,447.15 Cr",
+    "track_record": "8 years",
+    "rating_out_of_10": "6.7"
+  },
+  {
+    "company": "Bajaj Allianz",
+    "claim_settlement_ratio(avg._of_last_3_years)": "95%",
+    "network_hospitals": "12,000+",
+    "gross_written_premium_(2023-24)": "\u00e2\u0082\u00b96,522.38 Cr",
+    "track_record": "23 years",
+    "rating_out_of_10": "6.7"
+  },
+  {
+    "company": "Care",
+    "claim_settlement_ratio(avg._of_last_3_years)": "90%",
+    "network_hospitals": "11,400+",
+    "gross_written_premium_(2023-24)": "\u00e2\u0082\u00b96,545.58 Cr",
+    "track_record": "12 years",
+    "rating_out_of_10": "5"
+  },
+  {
+    "company": "Niva Bupa (erstwhile Max Bupa)",
+    "claim_settlement_ratio(avg._of_last_3_years)": "91%",
+    "network_hospitals": "10,000+",
+    "gross_written_premium_(2023-24)": "\u00e2\u0082\u00b95,494.43 Cr",
+    "track_record": "16 years",
+    "rating_out_of_10": "3.3"
+  },
+  {
+    "company": "HDFC Ergo",
+    "affordable_option": "None",
+    "comprehensive_options": "Optima Secure, Optima Super Secure, Optima Restore",
+    "premium_options": "Optima Secure Global, Optima Secure Global Plus, Health Wallet",
+    "diabetic_specific_policy": "Energy Silver, Energy Gold",
+    "cancer_specific_policy": "None",
+    "heart_specific_policy": "None",
+    "senior_citizen_options": "Optime Secure"
+  },
+  {
+    "company": "Care",
+    "affordable_option": "Care Advantage",
+    "comprehensive_options": "Care Supreme, Care Plus",
+    "premium_options": "None",
+    "diabetic_specific_policy": "None",
+    "cancer_specific_policy": "Care Freedom",
+    "heart_specific_policy": "Care Heart",
+    "senior_citizen_options": "Care Supreme"
+  },
+  {
+    "company": "Aditya Birla",
+    "affordable_option": "Activ One NXT",
+    "comprehensive_options": "Activ One MAX, Activ Fit",
+    "premium_options": "Activ One MAX+, Activ One VIP, Activ One VIP+",
+    "diabetic_specific_policy": "Activ One MAX, Activ One NXT",
+    "cancer_specific_policy": "None",
+    "heart_specific_policy": "None",
+    "senior_citizen_options": "Activ One MAX, Activ One NXT"
+  },
+  {
+    "company": "Niva Bupa",
+    "affordable_option": "ReAssure 2.0",
+    "comprehensive_options": "ReAssure 2.0, Aspire",
+    "premium_options": "Health Premia, Heartbeat",
+    "diabetic_specific_policy": "None",
+    "cancer_specific_policy": "None",
+    "heart_specific_policy": "None",
+    "senior_citizen_options": "Senior First, Health Companion"
+  },
+  {
+    "company": "Bajaj Allianz",
+    "affordable_option": "Health Guard Silver, Health Ensure Family",
+    "comprehensive_options": "Health Guard Gold, Platinum",
+    "premium_options": "Health Care Supreme",
+    "diabetic_specific_policy": "None",
+    "cancer_specific_policy": "None",
+    "heart_specific_policy": "None",
+    "senior_citizen_options": "Silver Health"
+  }
+]
